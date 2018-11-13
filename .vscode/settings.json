@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/mauriballes/.local/share/virtualenvs/django-up-XGuo1j7s/bin/python",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"]
+}

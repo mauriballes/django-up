@@ -1,0 +1,7 @@
+include DOCS.md
+include LICENSE
+include Pipfile
+include Pipfile.lock
+include README.rst
+include requirements.txt
+include djangoup/management/commands/deploy.example.yml
