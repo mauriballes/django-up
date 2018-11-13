@@ -11,6 +11,13 @@ setup(
     name='django-up',
     version='0.1',
     packages=find_packages(),
+    python_requires='>=3.0',
+    install_requires=[
+        'Django',
+        'gunicorn',
+        'fabric2',
+        'PyYAML'
+    ],
     include_package_data=True,
     license='MIT License',  # example license
     description='A simple Django app to deploy Django Projects using Gunicorn.',
