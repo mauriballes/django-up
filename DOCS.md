@@ -11,7 +11,7 @@ You need to install the following dependecies
 
 ## Install
 
-You can find this package in `pipy` 
+You can find this package in `pypi` 
 
 ```bash
 $ pip install django-up 
