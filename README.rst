@@ -8,9 +8,7 @@ projects. By the moment, you only can use ``gunicorn``
 Documentation
 -------------
 
-Follow the instructions on the `Docs File`_ file.
-.. _`Docs File`: https://github.com/mauriballes/django-up/blob/master/DOCS.md
-
+Follow the instructions on the `Docs File <https://github.com/mauriballes/django-up/blob/master/DOCS.md>`_ file.
 
 TODO
 ----
