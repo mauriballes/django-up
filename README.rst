@@ -5,14 +5,15 @@ Django Up
 Django Up is a simple Django app to make a continuous integrations of your Django
 projects. By the moment, you only can use ``gunicorn``
 
-Quick start
------------
+Documentation
+-------------
 
-1. Add "djangoup" to your INSTALLED_APPS setting like this::
+Follow the instructions on the `Docs File`_ file.
+.. _`Docs File`: https://github.com/mauriballes/django-up/blob/master/DOCS.md
 
-    INSTALLED_APPS = [
-        ...
-        'djangoup',
-    ]
 
-2. Then, follow the instructions on the `Docs File <DOCS.md>`_ file.
+TODO
+----
+- Refactor (A lot...)
+- Improve Documentation
+- Improve Project

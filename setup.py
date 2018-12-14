@@ -9,12 +9,10 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-up',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     python_requires='>=3.0',
     install_requires=[
-        'Django',
-        'gunicorn',
         'fabric2',
         'PyYAML'
     ],
